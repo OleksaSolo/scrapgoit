@@ -1,0 +1,5 @@
+MongoDB_USER = "osmongo"
+MongoDB_PASSWORD = "270026"
+MongoDB_HOST = "mongogoit.p6mzwop.mongodb.net"
+MongoDB_NAME = "quotesdb"
+

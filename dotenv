@@ -1,5 +1,5 @@
-MongoDB_USER = "osmongo"
-MongoDB_PASSWORD = "270026"
-MongoDB_HOST = "mongogoit.p6mzwop.mongodb.net"
-MongoDB_NAME = "quotesdb"
+MongoDB_USER = your value
+MongoDB_PASSWORD = your value
+MongoDB_HOST = your value
+MongoDB_NAME = your value
 

@@ -122,7 +122,7 @@ class QuotesAuthorSpider(scrapy.Spider):
         )
 
 if __name__ == "__main__":
-    process = CrawlerProcess()
+    process = CrawlerProcess(settings={"REQUEST_FINGERPRINTER_IMPLEMENTATION": "2.7"})
     logger_pymongo = logging.getLogger("pymongo")
     logger_pymongo.setLevel(logging.ERROR)
     # run spider

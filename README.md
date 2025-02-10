@@ -6,3 +6,4 @@ qoutes.json, which contains all the information about quotes from all pages of t
 
 authors.json, which contains information about the authors of the mentioned quotes.
 
+
